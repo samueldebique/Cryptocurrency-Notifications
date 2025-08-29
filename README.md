@@ -1,0 +1,1 @@
+Monitors CoinMarketCap for newly listed cryptocurrencies and sends email alerts with details like name, symbol, platform, token address, price, fully diluted market cap, and release time for coins added in the last 40 minutes.
