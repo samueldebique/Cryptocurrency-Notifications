@@ -15,13 +15,13 @@ parameters = {
 }
 headers = {
     'Accepts': 'application/json',
-    'X-CMC_PRO_API_KEY': '3bf540de-cc01-435e-b957-e1fb66ea18eb',  
+    'X-CMC_PRO_API_KEY': '',  
 }
 
 # Email Configuration
-sender_email = "samueldebique1@gmail.com"
-receiver_email = "cryptolisting1234@gmail.com"
-password = "dovf khok bedo nlzy"  #keep this secure!
+sender_email = ""
+receiver_email = ""
+password = "" 
 
 def send_email(subject, body):
     msg = MIMEMultipart()
